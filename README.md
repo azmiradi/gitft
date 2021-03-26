@@ -10,7 +10,7 @@ for share gifts
    <img src="https://github.com/azmiradi/gitft/blob/master/screen/3.jpg" width="350" title="Main screen">
    <img src="https://github.com/azmiradi/gitft/blob/master/screen/4.jpg" width="350" title="Main screen">
    <img src="https://github.com/azmiradi/gitft/blob/master/screen/5.jpg" width="350" title="Main screen">
-   <img src="https://github.com/azmiradi/gitft/blob/master/screen/6.jpg" width="350" title="Main screen">
+   <img src="https://github.com/azmiradi/gitft/blob/master/screen/6.png" width="350" title="Main screen">
    <img src="https://github.com/azmiradi/gitft/blob/master/screen/7.jpg" width="350" title="Main screen">
    <img src="https://github.com/azmiradi/gitft/blob/master/screen/8.jpg" width="350" title="Main screen">
    <img src="https://github.com/azmiradi/gitft/blob/master/screen/9.jpg" width="350" title="Main screen">
